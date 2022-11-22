@@ -1,0 +1,11 @@
+.Container{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    border: 1px solid black;
+}
+.playlist{
+    width: 20%;
+    height: 100vh;
+    background-color: black;
+}
